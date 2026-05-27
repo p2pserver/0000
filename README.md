@@ -1,5 +1,5 @@
 <!--Info--> 
-***Project***
+***Project README***
 <!--> 
 p2pServer 
 <!--Description --> 
