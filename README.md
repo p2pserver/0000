@@ -3,7 +3,7 @@
 <!--> 
 p2pServer 
 <!--Description --> 
-***Installation Notes*** 
+***Installation Instructions*** 
 <!--> 
 Browser Requirements: 
 
