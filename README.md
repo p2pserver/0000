@@ -5,7 +5,6 @@ p2pServer
 <!--Description --> 
 ***Installation*** 
 <!--> 
-OS Requirements: 
 Browser Requirements: 
 
 <!--Description--> 
